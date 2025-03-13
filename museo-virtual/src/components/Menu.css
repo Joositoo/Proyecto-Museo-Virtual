@@ -1,0 +1,22 @@
+.colorFondoMenu{
+    background-color: rgba(202, 217, 231, 0.5);
+    padding: 10px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.5);
+    border-bottom: 2px solid rgba(212, 175, 55, 0.7);
+}
+
+.containerMenu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.containerMenu p{
+    margin-top: 15px;
+}
+
+.listaMenu{
+    display: flex;
+    justify-content: space-evenly;
+}

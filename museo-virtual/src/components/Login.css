@@ -1,0 +1,57 @@
+.containerLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("https://www.papelpintado.com/media/catalog/product/cache/765175cf1e0a4cff0292d295081d4aa3/w/0/w08065-small.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: serif;
+}
+
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgba(212, 175, 55, 0.7);
+    border-radius: 15px;
+    width: 25%;
+    padding: 2%; 
+    background-color: rgba(202, 217, 231, 0.5);
+    align-items: center;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+input,
+button {
+    padding: 15px;
+    border: 1px solid rgba(212, 175, 55, 0.7);
+    border-radius: 40px;
+    margin-bottom: 20px; 
+    width: 80%;
+    background-color: rgba(202, 217, 231, 0.3);
+    margin-left: 0px; 
+    margin-right: 0px; 
+}
+
+button {
+    background-color: rgb(255, 255, 255, 0.5);
+}
+
+button:hover {
+    background-color: rgb(255, 255, 255, 1);
+    cursor: pointer;
+}
+
+input:focus {
+    outline: none;
+}
+
