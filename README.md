@@ -28,8 +28,11 @@
   <li><b><i>html</i></b>:Para estructurar la información de cada museo.</li>
 </ul>
 
-1. Clona el repositorio:  
-   ```sh
-   git clone https://github.com/Joositoo/Proyecto-Museo-Virtual.git
-   cd Proyecto-Museo-Virtual/museo-virtual
+<h2>🚀 Instalación y ejecución</h2>
+<p>
+  Clona el repositorio:  
+</p>
 
+   ```sh
+   git clone (https://github.com/Joositoo/Proyecto-Museo-Virtual.git
+   cd Proyecto-Museo-Virtual/museo-virtual
