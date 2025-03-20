@@ -30,5 +30,6 @@
 
 1. Clona el repositorio:  
    ```sh
-   git clone https://github.com/tuusuario/museo-virtual.git
-   cd museo-virtual
+   git clone https://github.com/Joositoo/Proyecto-Museo-Virtual.git
+   cd Proyecto-Museo-Virtual/museo-virtual
+
