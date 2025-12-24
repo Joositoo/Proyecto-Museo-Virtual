@@ -1,38 +1,42 @@
-<h1>🏛 Proyecto: Museo Virtual</h1>
+# 🏛 Proyecto: Museo Virtual
 
-<p>
-  Este proyecto trata de una página web desarrollada en <b><i>React</i></b>. El sitio web muestra <b>3 de los museos más relevantes</b> junto a sus <b>obras más emblemáticas</b>.
-</p>
+Este proyecto consiste en una **página web desarrollada con React** que presenta **tres de los museos más relevantes**, junto con sus **obras más emblemáticas**.
 
-<p>
-  Cada museo cuenta con una vista de sus obras. Además, se muestra un apartado de <b>galería de imágenes</b>, en el que aparecen todas las obras de cada museo en una sola vista.
-</p>
+La aplicación permite al usuario explorar cada museo de forma individual, visualizar sus obras destacadas y acceder a una **galería general** que reúne todas las obras en una sola vista.
 
-<h2>✨ Características</h2>
+---
 
-<ul>
-  <li>Formulario de inicio de sesión.</li>
-  <li>Página principal donde se muestran todos los museos.</li>
-  <li>Página individual para cada museo con sus obras más destacadas.</li>
-  <li>Página que ofrece una vista de todas las obras mostradas en la página web.</li>
-  <li>Diseño atractivo e intuitivo para el usuario.</li>
-</ul>
+## ✨ Características
 
-<h2>🛠️ Tecnologías empleadas</h2>
+- 🔐 Formulario de inicio de sesión.
+- 🏠 Página principal con la vista general de los museos.
+- 🖼️ Página individual para cada museo con sus obras más representativas.
+- 🧩 Galería con todas las obras disponibles en la aplicación.
+- 🎨 Diseño atractivo e intuitivo enfocado en la experiencia de usuario.
 
-<ul>
-  <li><b><i>React</i></b>: Para la estructura de la interfaz y su interactividad.</li>
-  <li><b><i>JavaScript</i></b>: Para manejar el estado global del usuario tras el inicio de sesión. </li>
-  <li><b><i>CSS</i></b>: Para darle un estilo único al sitio web.</li>
-  <li><b><i>Bootstrap</i></b>: Framework empleado para el slideshow de la página principal.</li>
-  <li><b><i>html</i></b>:Para estructurar la información de cada museo.</li>
-</ul>
+---
 
-<h2>🚀 Instalación y ejecución</h2>
-<p>
-  Clona el repositorio:  
-</p>
+## 🛠️ Tecnologías empleadas
 
-   ```sh
-   git clone (https://github.com/Joositoo/Proyecto-Museo-Virtual.git
-   cd Proyecto-Museo-Virtual/museo-virtual
+- **React**: Construcción de la interfaz y gestión de componentes.
+- **JavaScript**: Lógica de la aplicación y manejo del estado del usuario.
+- **CSS**: Estilos personalizados de la aplicación.
+- **Bootstrap**: Uso de componentes visuales como el slideshow de la página principal.
+- **HTML**: Estructuración del contenido de los museos.
+
+---
+
+## 🚀 Instalación y ejecución
+
+Para ejecutar el proyecto en tu entorno local, asegúrate de tener **Node.js** instalado y sigue los pasos a continuación:
+
+```sh
+git clone https://github.com/Joositoo/Proyecto-Museo-Virtual.git
+cd Proyecto-Museo-Virtual/museo-virtual
+npm install
+npm start
+```
+
+Una vez iniciado, la aplicación se abrirá automáticamente en tu navegador en:
+```sh
+http://localhost:3000
